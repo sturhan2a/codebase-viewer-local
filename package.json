@@ -1,0 +1,10 @@
+{
+  "name": "codebase-viewer-local",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline-capable local Codebase Viewer (no Vercel / Tailscale / GitHub calls).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
